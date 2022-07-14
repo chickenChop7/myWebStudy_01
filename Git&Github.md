@@ -105,3 +105,11 @@ git管理的项目分为三个区域，工作区、暂存区、Git仓库
 ## 2.14回退到指定的版本
 
 ![image-20220713155531794](C:\Users\25250\AppData\Roaming\Typora\typora-user-images\image-20220713155531794.png)
+
+# 3.Github
+
+## 3.1基于HTTPS将本地仓库上传到Github
+
+![image-20220713200852660](C:\Users\25250\AppData\Roaming\Typora\typora-user-images\image-20220713200852660.png)
+
+第二次提交只需要输入git push
